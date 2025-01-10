@@ -55,7 +55,7 @@
   "item.dehydration.netherite_leather_flask": "Незеритовая кожаная фляга",
   "item.dehydration.leather_flask.tooltip": "Fill Level %1$s/%2$s",
   "item.dehydration.leather_flask.tooltip2": "Fill Capacity %1$s",
-  "item.dehydration.leather_flask.tooltip3.dirty": "§2Dirty Water",
+  "item.dehydration.leather_flask.tooltip3.dirty": "§2Грязная вода",
   "item.dehydration.leather_flask.tooltip3.impurified": "§3Impurified Water",
   "item.dehydration.leather_flask.tooltip3.purified": "§bPurified Water",
   "item.dehydration.handbook": "Handbook",
